@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: blueviolet;
+    }
+    body {
+        border: 15px solid green;
+        padding: 50px;
+        margin: 30px;
+        background-color: aqua;
+        font-size: 30px;
+          font-family: 'Times New Roman', Times, serif;
+          font-style: italic;
+          font-weight: 200;
+        
+      }
+      .facts {
+        border: 15px solid rgb(236, 10, 180);
+        padding: 50px;
+        margin: 30px;
+        background-color: rgb(123, 255, 0);
+      }
